@@ -1,3 +1,26 @@
+/******************************************************************************
+
+  Taller Estructura de Datos
+  Cesar Andres Morales Hincapie
+  14474751
+  
+  Realice un programa que permita registrar clientes.
+  De cada cliente se debe registrar, nombre, el cupo de
+  crédito y el cupo usado.
+  El programa debe permitir mostrar todos los clientes.
+  El programa permite mostrar los clientes cuyo cupo
+  usado sea superior al 80%.
+  El programa permite calcular el total de créditos por
+  cobrar.
+  Realizar una segunda lista en orden ascendente siendo la
+  cabeza el menor cupo de crédito y así sucesivamente hasta
+  el mayor cupo de crédito.
+
+ ******************************************************************************/
+
+
+
+
 #include <iostream>
 #include <stdlib.h>
 
